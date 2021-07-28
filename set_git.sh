@@ -1,3 +1,11 @@
+# LiGuos-Mac-2:CarND-Kidnapped-Vehicle-Project Carson$ ./set_git.sh
+# -bash: ./set_git.sh: Permission denied
+
+# You need to give execute and read permission. Follow this:
+
+#    	chmod u+r+x filename.sh
+#     ./filename.sh
+
 #!/bin/bash
 
 # Make sure you have the latest version of the repo
